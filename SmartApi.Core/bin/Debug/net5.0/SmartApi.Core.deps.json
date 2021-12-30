@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SmartApi.Core/1.0.0": {
+        "runtime": {
+          "SmartApi.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartApi.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

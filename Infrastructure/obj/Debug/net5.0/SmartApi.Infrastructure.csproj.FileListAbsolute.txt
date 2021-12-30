@@ -1,0 +1,15 @@
+C:\Users\oluwa\Source\repos\SmartApi\Infrastructure\obj\Debug\net5.0\SmartApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\oluwa\Source\repos\SmartApi\Infrastructure\obj\Debug\net5.0\SmartApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwa\Source\repos\SmartApi\Infrastructure\obj\Debug\net5.0\SmartApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\oluwa\Source\repos\SmartApi\Infrastructure\obj\Debug\net5.0\SmartApi.Infrastructure.AssemblyInfo.cs
+C:\Users\oluwa\Source\repos\SmartApi\Infrastructure\obj\Debug\net5.0\SmartApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\oluwa\Source\repos\SmartApi\Infrastructure\bin\Debug\net5.0\SmartApi.Infrastructure.deps.json
+C:\Users\oluwa\Source\repos\SmartApi\Infrastructure\bin\Debug\net5.0\SmartApi.Infrastructure.dll
+C:\Users\oluwa\Source\repos\SmartApi\Infrastructure\bin\Debug\net5.0\ref\SmartApi.Infrastructure.dll
+C:\Users\oluwa\Source\repos\SmartApi\Infrastructure\bin\Debug\net5.0\SmartApi.Infrastructure.pdb
+C:\Users\oluwa\Source\repos\SmartApi\Infrastructure\bin\Debug\net5.0\SmartApi.Core.dll
+C:\Users\oluwa\Source\repos\SmartApi\Infrastructure\bin\Debug\net5.0\SmartApi.Core.pdb
+C:\Users\oluwa\Source\repos\SmartApi\Infrastructure\obj\Debug\net5.0\SmartApi.Infrastructure.csproj.CopyComplete
+C:\Users\oluwa\Source\repos\SmartApi\Infrastructure\obj\Debug\net5.0\SmartApi.Infrastructure.dll
+C:\Users\oluwa\Source\repos\SmartApi\Infrastructure\obj\Debug\net5.0\ref\SmartApi.Infrastructure.dll
+C:\Users\oluwa\Source\repos\SmartApi\Infrastructure\obj\Debug\net5.0\SmartApi.Infrastructure.pdb
